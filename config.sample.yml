@@ -1,4 +1,4 @@
 development:
-  password: <YOUUR_APP_PASSWORD>
+  password: <APP_PASSWORD>
   theme_id: <YOUR_THEME_ID>
-  store: <YOU_STORE_URL>
+  store: <STORE_URL>
